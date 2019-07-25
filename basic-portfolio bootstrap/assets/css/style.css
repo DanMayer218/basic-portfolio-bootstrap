@@ -1,0 +1,426 @@
+#global {
+    background-color: white;
+    align-content: center;
+    width: 1190px;
+    padding-left:120px;
+    padding-right:120px;
+    padding-top:20px;
+
+}
+
+
+#header {
+    display: block;
+    width: 960px;
+    height: 90px;
+    background-color: rgb(160, 160, 160);
+    text-align: center;
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 50px;
+    margin-bottom: 10px;
+    padding-top:10px;
+
+
+}
+
+#navbar {
+
+    display: block;
+    width: 960px;
+    height: 100px;
+    background-color: rgb(160, 160, 160);
+    margin-bottom: 20px;
+
+
+
+}
+
+.nav {
+    align-content: center;
+    padding-left:96px;
+}
+
+
+
+
+.nav-item {
+
+    display: inline-block;
+    height:60px;
+    width: 200px;
+    padding-top:30px;
+    
+    
+   
+   
+}
+
+
+
+
+#h2p {
+    display: inline-block;
+    float: left;
+    height: 350px;
+    width: 500px;
+    background-color: rgb(160, 160, 160);
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    
+
+}
+
+#arthead {
+    background-color: rgb(59, 59, 59);
+    margin-top: 100px;
+    height: 240px;
+    width: 460px;
+
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    padding-right:10px;
+
+}
+
+#header2 {
+
+    display: inline-block;
+    height: 30px;
+    width:440px;
+    background-color: rgb(230, 222, 222);
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    
+
+    
+    }
+
+#para {
+
+    display: inline-block;
+    float: left;
+    clear: left;
+    height: 140px;
+    width:440px;
+    margin-left: 10px;
+    background-color: rgb(230, 222, 222);
+}
+
+
+#aside {
+    display: inline-block;
+    float:left;
+    height: 350px;
+    width: 450px;
+    text-align: center;
+    background-color: rgb(78, 78, 78);
+    margin-left: 5px;
+    margin-right:0px;
+    margin-bottom:10px;
+
+   
+}
+
+
+
+
+
+
+footer {
+    display: block;
+    clear: left;
+    justify-content: center;
+    height: 100px;
+    width: 960px;
+    background-color: rgb(34, 14, 14);
+    text-align: center;
+    margin-top: 10px;
+    clear: left;
+}
+
+
+
+
+
+
+
+/*-----------------------ABOUT ME CSS------------------------------------ */
+/* ---------------------------------------------------------------------- */
+
+#aboutbody {
+
+    Width:1000px;
+    height: 1200px;
+    background-color: rgb(177, 177, 177);
+    margin-left: 120px;
+    margin-right: 120px;
+
+
+
+}
+
+
+#abdiv {
+
+    display: inline-block;
+    width: 1200px;
+    height:1400px;
+    padding-top: 20px;
+    padding-right: 120px;
+    padding-bottom: 80px;
+    padding-left: 120px;
+    background-color: rgb(177, 177, 177);
+
+}
+
+#bout {
+
+    display: inline-block;
+    width: 960px;
+    height: 950px;
+    background-color: white
+
+}
+
+#abhead{
+
+    display: block;
+    Width: 875px;
+    height: 40px;
+    background-color: none;
+    font-family: 'Spinnaker', sans-serif;
+    color: black;
+    font-size: 25px;
+    font-style: underline;
+    font-style: bold;
+    padding-top:40px;
+    padding-left: 25px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    background-color: none;
+    margin-bottom: 0px;
+    margin-left:10px;
+    
+
+
+}
+
+#headshot {
+
+
+    display: inline-block;
+    float: left;
+    padding-bottom: 15px;
+    width: 250px;
+    height: 325px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    margin-left:10px;
+
+
+
+
+}
+
+#p1 {
+
+    Display: inline-block;
+    float: left;
+    width: 650px;
+    height: 325x;
+    margin-top: 35px;
+    margin-bottom: 30px;
+    font-family: 'Syncopate', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 20px;
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+#p2 {
+    Display: block;
+    clear: left;
+    height: 325px;
+    width: 900px;
+    font-family: 'Syncopate', sans-serif;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-left: 25px;
+    line-height: 25px;
+    padding-top: 20px;
+
+}
+#p3 {
+    Display: block;
+    height: 325px;
+    width: 900px;
+    font-family: 'Syncopate', sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 25px;
+    line-height: 25px;
+}
+
+/* ---------footer and nav bar-------- */
+
+#navbar2 {
+
+    display: block;
+    width: 960px;
+    height: 100px;
+    background-color: rgb(177, 177, 177);
+    color: white;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+
+
+
+}
+
+.nav-item2 {
+
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+
+    color: white;
+    margin-top: 10px;
+    margin-right: 40px;
+}
+
+.nav2 {
+
+    color: white;
+
+}
+
+
+
+/* -------------Portfolio page------------------------------------- */
+/* ----------------------------------------------------------------- */
+
+#portfolio {
+
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    
+
+
+}
+
+#pagewrapper {
+
+    width: 100%;
+    height: 1auto;
+    
+
+}
+#porthead {
+
+    Display: block;
+    height: 80px;
+    width: 100%;
+    display: block;
+    margin-top: 20px;
+    padding-top:10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 60px;
+    border: black;
+    border-width: 7px;
+
+
+
+
+
+}
+
+.media1 {
+    display: block;
+    width: 800px;
+    display: block;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-width: 2px;
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 16px;
+
+}
+
+.media2 {
+
+    display: block;
+    width: 800px;
+    display: block;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-width: 2px;
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 16px;
+
+}
+
+.media3 {
+
+    display: block;
+    align-content: center;
+    width: 800px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-width: 2px;
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 16px;
+
+}
+
+img {
+
+    display: block;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+    
+    width: 40%;
+}
+
+
+
+.paraimg {
+
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 350px;
+
+}
+
+.mt-0 {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 350px;
+    font-size: 24px;
+
+
+/* }----------ARTGALLERY CSS------------- *
+/-------------------------------------------------
+
+
+
